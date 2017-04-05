@@ -1,0 +1,6 @@
+This is a list of domain names to whitelist within NoScript in order to enable easy online payments.  This is predominantly for the use of 3D Secure payment verification mechanisms such as Verified by Visa and Mastercard's Secure Code.
+
+arcot.com
+barclaycard.co.uk
+securecode.com
+stripe.com
